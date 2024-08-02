@@ -1,0 +1,73 @@
+* HOME
+home__data-subtitle
+
+
+home__data-title
+
+
+home__social
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+home__info-title
+
+
+
+* ABOUT
+section__title
+
+
+about__description
+
+
+* DISCOVER
+section__title
+
+
+discover__description
+
+
+
+* EXPERIENCE
+section__title
+
+
+experience__description
+
+
+* VIDEO
+section__title
+Video Tour
+
+video__description
+* PLACES
+section__title
+
+
+* SUBSCRIBE
+section__title
+
+
+subscribe__description
+
+
+* FOOTER
+footer__description
+
+
+footer__social
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+https://www.youtube.com/
+
+
+footer__copy
+&#169; 2024 Irus. All rigths reserved.
+
+footer__terms-link
+Terms & Agreements
+Privacy Policy
+
+
